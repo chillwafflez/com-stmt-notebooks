@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ':*)",
+      "Bash('C:\\\\Users\\\\jnguyen\\\\AppData\\\\Local\\\\miniconda3\\\\envs\\\\gurt\\\\python.exe' -c ':*)",
+      "Bash(C:\\\\Users\\\\jnguyen\\\\AppData\\\\Local\\\\miniconda3\\\\envs\\\\gurt\\\\python.exe:*)",
+      "Bash(\"C:\\\\Users\\\\jnguyen\\\\AppData\\\\Local\\\\miniconda3\\\\envs\\\\gurt\\\\python.exe\")",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs",
+      "Bash(\"C:\\\\Users\\\\jnguyen\\\\AppData\\\\Local\\\\miniconda3\\\\envs\\\\gurt\\\\python.exe\" _generate_notebooks.py)",
+      "Bash(\"C:\\\\Users\\\\jnguyen\\\\AppData\\\\Local\\\\miniconda3\\\\envs\\\\gurt\\\\python.exe\" -m pip install pyspark==3.5.1 --quiet)"
+    ]
+  }
+}
